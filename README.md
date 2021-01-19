@@ -1,4 +1,4 @@
-# NTUT EE ADIP HW1
+# NTUT EE ADIP HW
 ## :heart_eyes: Introduction my self
 大家好，我是吳定軒，目前就讀於國立台北科技大學電機工程系碩士班，我將在我的github上分享我所實作的Project，內容也有許多需要改進的地方，如果你有甚麼建議歡迎寫信到我的信箱t109318095@ntut.org.tw。   
 
