@@ -9,3 +9,9 @@ Hello everyone, I am TINGHSUAN-WU. I am currently studying in the Master's Progr
 
 ## :warning:嚴禁抄襲
 這些只是提供我自己的想法而已，程式碼撰寫得也沒有到很嚴謹，希望不會有抄襲的狀況發生。
+
+## :smile: Owner
+Made by https://github.com/WU-TING-HSUAN
+
+## :+1: School
+:point_right:National Taipei University of Technology	:point_left:
