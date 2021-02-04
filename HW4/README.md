@@ -55,7 +55,7 @@ CDF為PDF的累加，IOU每10%分成一個區域，並且開設一個陣列[10]�
 
 是用了許多Tracker，不是運算量太大，就是準度太低，最後使用的還是MedianFlow來進行運算，效果蠻差的。
 
-**由於這次的Figure數量太龐大，所以我在此就不貼上，我將Figure儲存為PDF放置在figure資料夾裡。**
+**由於這次的輸出是影片，我在video的output裡有附上影片。**
 
 ## :warning:嚴禁抄襲
 這些只是提供我自己的想法而已，程式碼撰寫得也沒有到很嚴謹，禁止抄襲。
@@ -67,3 +67,4 @@ Made by https://github.com/WU-TING-HSUAN
 
 ## :+1: School
 :point_right:National Taipei University of Technology	:point_left:
+
