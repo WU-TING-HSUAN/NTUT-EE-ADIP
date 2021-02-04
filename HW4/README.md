@@ -12,7 +12,7 @@ This assignment is ACV (Advanced Computer Vision), I use C++ and opencv to write
 ## :books: Source
 1. Opencv4.4.0
 2. Visual Studio 2019
-3. Opencv_world440d.dll
+3. ![](https://i.imgur.com/YpA1ndu.png)
 
 ## :book: Method
 ### Discussion:
